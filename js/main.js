@@ -26,7 +26,7 @@ for (let i of cells) {
   board.appendChild(cell);
 }
 
-// ADD 3D 
+// ADD 3D  
 let btnThreed = document.querySelector('.three__d');
 
 btnThreed.addEventListener('click', (e) => {
